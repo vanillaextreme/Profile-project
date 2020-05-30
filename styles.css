@@ -10,6 +10,7 @@ body {
   font-family: 'Raleway', san-serif;
   color: #363638;
   background: #363638;
+  line-height: 2.6em;
 }
 /* Link Styles */
 
@@ -92,7 +93,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  max-width: 700px;
   text-align: left;
   background: #bff1e2;
   border-bottom: 4px solid #ccc;
